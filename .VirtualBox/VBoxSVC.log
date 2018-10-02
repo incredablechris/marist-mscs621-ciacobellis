@@ -1,0 +1,11 @@
+VirtualBox (XP)COM Server 4.1.44_Ubuntu r104071 linux.amd64 (Nov 23 2015 18:10:00) release log
+00:00:00.000 main     Log opened 2018-09-28T20:31:21.403419000Z
+00:00:00.000 main     OS Product: Linux
+00:00:00.000 main     OS Release: 3.2.0-23-generic
+00:00:00.000 main     OS Version: #36-Ubuntu SMP Tue Apr 10 20:39:51 UTC 2012
+00:00:00.000 main     OS Service Pack: #36-Ubuntu SMP Tue Apr 10 20:39:51 UTC 2012
+00:00:00.000 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000 main     Process ID: 1644
+00:00:00.000 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.160 nspr-2   VDInit finished
+00:00:05.182 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={c28be65f-1a8f-43b4-81f1-eb60cb516e66} aComponent={VirtualBox} aText={The object is not ready}, preserve=false

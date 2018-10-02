@@ -1,0 +1,26 @@
+Downloading/unpacking docker-compose
+  Getting page http://pypi.python.org/simple/docker-compose
+  Could not fetch URL http://pypi.python.org/simple/docker-compose: HTTP Error 403: SSL is required
+  Will skip URL http://pypi.python.org/simple/docker-compose when looking for download links for docker-compose
+  Getting page http://pypi.python.org/simple/
+  Could not fetch URL http://pypi.python.org/simple/: HTTP Error 403: SSL is required
+  Will skip URL http://pypi.python.org/simple/ when looking for download links for docker-compose
+  Cannot fetch index base URL http://pypi.python.org/simple/
+  URLs to search for versions for docker-compose:
+  * http://pypi.python.org/simple/docker-compose/
+  Getting page http://pypi.python.org/simple/docker-compose/
+  Could not fetch URL http://pypi.python.org/simple/docker-compose/: HTTP Error 403: SSL is required
+  Will skip URL http://pypi.python.org/simple/docker-compose/ when looking for download links for docker-compose
+  Could not find any downloads that satisfy the requirement docker-compose
+No distributions at all found for docker-compose
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/pip/basecommand.py", line 126, in main
+    self.run(options, args)
+  File "/usr/lib/python2.7/dist-packages/pip/commands/install.py", line 223, in run
+    requirement_set.prepare_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/usr/lib/python2.7/dist-packages/pip/req.py", line 948, in prepare_files
+    url = finder.find_requirement(req_to_install, upgrade=self.upgrade)
+  File "/usr/lib/python2.7/dist-packages/pip/index.py", line 152, in find_requirement
+    raise DistributionNotFound('No distributions at all found for %s' % req)
+DistributionNotFound: No distributions at all found for docker-compose
