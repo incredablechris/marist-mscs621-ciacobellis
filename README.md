@@ -5,11 +5,7 @@ developed and documented by Christopher Iacobellis
 
 Marist College, Class of 2018
 
-BS, Information Technology
-
-Marist College, Class of 2019
-
-MS, Information Technology
+BS, MS Information Technology
 
 ## Introduction
  Introduction to an application (what it does, how it helps, dependencies, and so on)
