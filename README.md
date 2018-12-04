@@ -4,9 +4,11 @@
 developed and documented by Christopher Iacobellis
 
 Marist College, Class of 2018
+
 BS, Information Technology
 
 Marist College, Class of 2019
+
 MS, Information Technology
 
 ## Introduction
