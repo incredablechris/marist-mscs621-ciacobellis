@@ -21,6 +21,20 @@ As such, my project for this course will highlight and implement:
 2. **IBM Cloud Object Store**
 3. **Secure Gateway**
 
+### What the Application does:
+
+For this project I will be using three separate IBM Cloud services | systems. The overall application ecosystem will successfully implement a Db2 Cloud database, linking to a Object Store [ also in the Cloud ] ****.......
+
+
+
+
+
+
+
+
+
+
+
 ## Deploy Application
 + how to deploy your application
 
