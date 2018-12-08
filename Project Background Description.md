@@ -3,13 +3,15 @@
 
 Please refer to the README.md [document](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/README.md) for this project after understanding this context.
 
-* _Background for this Decision_: This past June, I had accepted an offer for a Summer Internship at IBM. I was placed on the IBM Learning Skills Gateway Team and for the next three months, I was to learn everything related to IBM Learning.
+### Background for this Decision: 
 
-- The IBM Learning Skills Gateway team focuses teaching skills to users around the world. These skills encompass almost anything to leading technology, including (but not limited to) *Analytics*, *Cloud Computing*, *Blockchain*, *Security*, *IT Infrastructure*, and *Watson services.*
+This past June, I had accepted an offer for a Summer Internship at IBM. I was placed on the IBM Learning Skills Gateway Team and for the next three months, I was to learn everything related to IBM Learning.
+
+The IBM Learning Skills Gateway team focuses teaching skills to users around the world. These skills encompass almost anything to leading technology, including (but not limited to) *Analytics*, *Cloud Computing*, *Blockchain*, *Security*, *IT Infrastructure*, and *Watson services.*
 
 - Check out our front-end [site](https://www-03.ibm.com/services/learning/itesp.wss/zz-en?pageType=page&c=a0011023) to learn more about my team.
 
-* After those three months, I can truly affirm that I have appreciated my time here at IBM with my team and the company overall. So much so in fact, that at the end of the internship, I was offered a full time position (starting in January). Until then, the internship would be extended. Since I have had such an excellent experience with IBM, I figured I'd focus my Cloud Computing project on technologies that I have used at IBM thus far.
+After those three months, I can truly affirm that I have appreciated my time here at IBM with my team and the company overall. So much so in fact, that at the end of the internship, I was offered a full time position (starting in January). Until then, the internship would be extended. Since I have had such an excellent experience with IBM, I figured I'd focus my Cloud Computing project on technologies that I have used at IBM thus far.
 
 * Of these topics, my favorite Cloud technologies have been **Db2**, **Cloud Object Store**, and **Secure Gateway**.
 
