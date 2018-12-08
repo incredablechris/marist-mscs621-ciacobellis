@@ -9,19 +9,19 @@ This past June, I had accepted an offer for a Summer Internship at IBM. I was pl
 
 The IBM Learning Skills Gateway team focuses teaching skills to users around the world. These skills encompass almost anything to leading technology, including (but not limited to) *Analytics*, *Cloud Computing*, *Blockchain*, *Security*, *IT Infrastructure*, and *Watson services.* Users can sign up with IBM to take courses and Learning Journeys offered by IBMers and | or Global Training Providers (GTP's) around the globe. A user simply logs in to the Skills Gateway, and gains access to take  thousands of courses relating to a technological topic of their interest.
 
-#### My Postion on the Skills Gateway Team
-
-As for myself, my primary position on the SG team relates to project management, database migration, and architecture documentation. My goal in the IT industry is to move my career into Project Management in technology. Since I have just begun my journey, I am not yet a project manager. My team lead is the project manager, and he is my mentor in this journey. As such, I have been working more closely with him throughout my time here at IBM. I am learning the aspects of what entails being a successful project manager. One component of this position is being able to successfully gather requirements from a client, and present them to your team for understanding and developement.
-
-*At this time, the Skills Gateway team is transitioning from 
-
-
-
 - Check out our front-end [site](https://www-03.ibm.com/services/learning/itesp.wss/zz-en?pageType=page&c=a0011023) to learn more about my team.
 
 - To get a better understanding, think of the IBM Learning Services platform as one related to iLearn at Marist. Marist offers online courses (like this course) to students, hosted on their iLearn platform. Students sign up for a course for either semester, log in to iLearn, and now have access to all content, assignments, quizzes and exams posted by the Instructor.
+_________________________________________________________________________________________________________________________
+
+#### My Postion on the Skills Gateway Team
+
+*At this time, the Skills Gateway team is transitioning from internal hosted database and storage servers, to the IBM Cloud. Our task is to move the entire backend database system and front-facing customer website to the Cloud entirely. It is quite an interesting and fufilling project in my opinion.
+
+As for myself, my primary position on the SG team relates to project management, database migration, and architecture documentation. My goal in the IT industry is to move my career into Project Management in technology. Since I have just begun my journey, I am not yet a project manager. My team lead is the project manager, and he is my mentor in this journey. As such, I have been working more closely with him throughout my time here at IBM. I am learning the aspects of what entails being a successful project manager. One component of this position is being able to successfully gather requirements from a client, and present them to your team for understanding, architecting, and developement. At the same time, I am the lead in the database migration from legacy servers to the IBM Cloud. I am working with technologies such as Db2 and Cloud Object Store; hence the inspiration for my final project this semester.
 
 After those three months, I can truly affirm that I have appreciated my time here at IBM with my team and the company overall. So much so in fact, that at the end of the internship, I was offered a full time position (starting in January). Until then, the internship would be extended. Since I have had such an excellent experience with IBM, I figured I'd focus my Cloud Computing project on technologies that I have used at IBM thus far.
+_________________________________________________________________________________________________________________________
 
 * Of these topics, my favorite Cloud technologies have been **Db2**, **Cloud Object Store**, and **Secure Gateway**.
 _________________________________________________________________________________________________________________________
