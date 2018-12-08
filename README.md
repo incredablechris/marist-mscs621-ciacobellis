@@ -24,18 +24,17 @@ As such, my project for this course will highlight and implement:
 2. **IBM Cloud Object Store**
 3. **Secure Gateway**
 
+__________________________________________________________________________________________________________________________
+
 ### What the Application does:
 
-For this project I will be using three separate IBM Cloud services | systems. The overall application ecosystem will successfully implement a Db2 Cloud database, linking to a Object Store [ also in the Cloud ] ****.......
+For this project I will be using three separate IBM Cloud services | systems. The overall application ecosystem will:
 
+1. Successfully implement a Db2 Managed Cloud database 
+2. Connect this Managed Cloud Database with a Cloud Object Store. The Object Store will hold metadata.
+3. Establishe a Secure Gateway link to effectively migrate data from a legacy database server to a Cloud Managed instance. 
 
-
-
-
-
-
-
-
+__________________________________________________________________________________________________________________________
 
 
 ## Deploy Application
@@ -51,10 +50,17 @@ For this project I will be using three separate IBM Cloud services | systems. Th
  * Github pages site where the high level introduction under <master-branch>/docs (i.e.
 marketing, sales)
 
+__________________________________________________________________________________________________________________________
+
 ## URL
-- The URL for the running application (Note: please make sure you shut cloud instances down
-after the course, otherwise it will charge you after the free tier ends. I will send a notification
-after all done). 
+
+Since this application ecosystem will be hosted on the IBM Cloud Bluemix Dashboard, the link is similar to that of which we have used in class this semester. The Dashboard hosts IBM Cloud Foundry Applications and Cloud Foundry Services, which can be interconnected with each other. As such, a user can create a *Db2 Managed Database Cloud Foundry service*, a *Cloud Object Storage service*, and a *Secure Gateway Cloud Foundry service* 
+
+You will find the link below. You may need to create an IBMid if not already done so.
+
+[IBM Cloud Bluemix Dashboard](https://console.bluemix.net/dashboard/apps)
+
+__________________________________________________________________________________________________________________________
 
 ## Create a FINAL REPORT
 - The final report (ppt) should include the architecture, components, deployment model,
