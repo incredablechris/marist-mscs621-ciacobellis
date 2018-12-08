@@ -12,12 +12,6 @@ BS, MS Information Technology
  
 The project that I have researched and implemented for this semester relates to Databases, Object Store, and Secure Gateway, all under the IBM Cloud Platform and Service. 
 
-Please refer to Project Background Description.md for a full background description by following the path below:
-      
-      marist-mscs621-ciacobellis/Project Background Description.md
-      
-- or view the page [here](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/Project%20Background%20Description.md).
-
 As such, my project for this course will highlight and implement:
 
 1. **Db2Hosted and Db2Managed on Cloud Database**
@@ -32,13 +26,25 @@ For this project I will be using three separate IBM Cloud services | systems. Th
 
 1. Successfully implement a Db2 Managed Cloud database 
 2. Connect this Managed Cloud Database with a Cloud Object Store. The Object Store will hold metadata.
-3. Establishe a Secure Gateway link to effectively migrate data from a legacy database server to a Cloud Managed instance. 
+3. Establishe a Secure Gateway link to effectively migrate data from a legacy database server to a Cloud Managed instance.
+
+At a higher level, the appliation environment will have an end-to-end system featuring a database and an object store. A secure gateway will provide a secure connection to bring data into the database, from a legacy environment. The object store will hold metadata, that will be uploaded by the user into a bucket. The bucket and object store itself will be Flex, meaning that it will scale provided the initial storage capacity provided is reached. For this project, we will not exceed this limit by any means.
+
+The database will be a Db2 Managed enviornment, with a GUI for the user to interact with. I will provide steps for the power user, who may want to use a Terminal command line shell to perform database configurations and migration.
+
+The Object Store will upload and download metadata and auxillary files; for example, Word documents, .xls spreadsheets, and PDFs.
+
+The Secure Gateway will be launched from a Terminal shell, and initiated in a dockerized container. The Gateway will be started with Docker, and the IBM Bluemix Dashboard will track progress of data migrated from one database to another (Cloud).
 
 __________________________________________________________________________________________________________________________
 
-
 ## Deploy Application
-+ how to deploy your application
+
+To deploy the application, we must first configure each of the three components:
+
+1. [Db2 Managed Database]()******************************
+2. [Cloud Object Store]()
+3. [Secure Gateway]()
 
 ## Architecture Diagram
  + Architecture diagram (local cloud development, cloud deployment, communication)
@@ -46,9 +52,15 @@ ________________________________________________________________________________
 ## API's
  + API specification if your service is consumed by others
  
+__________________________________________________________________________________________________________________________
+
 ## GitHub Pages
- * Github pages site where the high level introduction under <master-branch>/docs (i.e.
-marketing, sales)
+
+Please refer to Project Background Description.md for a full background description by following the path below:
+      
+      marist-mscs621-ciacobellis/Project Background Description.md
+      
+- or view the page [here](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/Project%20Background%20Description.md).
 
 __________________________________________________________________________________________________________________________
 
@@ -65,3 +77,5 @@ ________________________________________________________________________________
 ## Create a FINAL REPORT
 - The final report (ppt) should include the architecture, components, deployment model,
 communication, and so on. 
+
+EMBED A PPT HERE!!!****
