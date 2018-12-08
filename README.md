@@ -16,7 +16,7 @@ Please refer to Project Background Description.md for a full background descript
       
       marist-mscs621-ciacobellis/Project Background Description.md
       
-or view the page [here](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/Project%20Background%20Description.md)
+- or view the page [here](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/Project%20Background%20Description.md).
 
 As such, my project for this course will highlight and implement:
 
