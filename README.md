@@ -10,13 +10,13 @@ BS, MS Information Technology
 ## Fundamental Introduction
  Introduction to an application (what it does, how it helps, dependencies, and so on)
  
-The project that I have researched and implemented for this semester relates to the IBM Db2 Cloud Database System, IBM Cloud Object Store, and Secure Gateway. 
+The project that I have researched and implemented for this semester relates to Databases, Object Store, and Secure Gateway, all under the IBM Cloud Platform and Service. 
 
-Please refer to file Project Introduction | Background.md for a full background description by following the path below:
+Please refer to Project Background Description.md for a full background description by following the path below:
       
       marist-mscs621-ciacobellis/Project Background Description.md
       
-View the page [here](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/Project%20Background%20Description.md)
+or view the page [here](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/Project%20Background%20Description.md)
 
 As such, my project for this course will highlight and implement:
 
