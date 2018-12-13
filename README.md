@@ -41,15 +41,22 @@ ________________________________________________________________________________
 
 To deploy the application, we must first configure each of the three components:
 
-1. [Db2 Managed Database]()******************************
-2. [Cloud Object Store]()
-3. [Secure Gateway]()
+1. [Db2 Managed Database]()************************************************************************************
+2. [Cloud Object Store]()**************************************************************************************
+3. [Secure Gateway]()*****************************************************************************************
+
+__________________________________________________________________________________________________________________________
 
 ## Architecture Diagram
  + Architecture diagram (local cloud development, cloud deployment, communication)
- 
+
+***** COPY ARCH DIAGRAM FROM SKILLS GATEWAY ON PPT. EMBED LINK OR PHOTO TO DIAGRAM *******************************
+
+__________________________________________________________________________________________________________________________
+
 ## API's
- + API specification if your service is consumed by others
+ 
+For this project, there was no use for an API. This is another field of interest of mine, of which I will be researching after this course and all throughout my time at IBM.
  
 __________________________________________________________________________________________________________________________
 
@@ -77,4 +84,4 @@ ________________________________________________________________________________
 - The final report (ppt) should include the architecture, components, deployment model,
 communication, and so on. 
 
-EMBED A PPT HERE!!!****
+EMBED A PPT HERE!!!***************************************************************************************************
