@@ -8,8 +8,7 @@ Marist College, Class of 2018
 BS, MS Information Technology
 
 ## Fundamental Introduction
- Introduction to an application (what it does, how it helps, dependencies, and so on)
- 
+
 The project that I have researched and implemented for this semester relates to Databases, Object Store, and Secure Gateway, all under the IBM Cloud Platform and Service. 
 
 As such, my project for this course will highlight and implement:
