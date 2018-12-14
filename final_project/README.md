@@ -25,7 +25,7 @@ For this project I will be using three separate IBM Cloud services | systems. Th
 
 1. Successfully implement a Db2 Managed Cloud database 
 2. Connect this Managed Cloud Database with a Cloud Object Store. The Object Store will hold metadata.
-3. Establishe a Secure Gateway link to effectively migrate data from a legacy database server to a Cloud Managed instance.
+3. Establish a Secure Gateway link to effectively migrate data from a legacy database server to a Cloud Managed instance.
 
 At a higher level, the application environment will have an end-to-end system featuring a database and an object store. A secure gateway will provide a secure connection to bring data into the database, from a legacy environment. The object store will hold metadata, that will be uploaded by the user into a bucket. The bucket and object store itself will be Flex, meaning that it will scale provided the initial storage capacity provided is reached. For this project, we will not exceed this limit by any means.
 
