@@ -56,7 +56,7 @@ Please view the diagram below. The link will bring you to another page within th
 
 ***** COPY ARCH DIAGRAM FROM SKILLS GATEWAY ON PPT. EMBED LINK OR PHOTO TO DIAGRAM *******************************
 
-![Final Project Architecture Diagram](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Final Project Architecture Diagram](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/Final_Project_Arch.png)
 
 __________________________________________________________________________________________________________________________
 
