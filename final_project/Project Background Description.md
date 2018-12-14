@@ -1,7 +1,7 @@
 ## marist-mscs621-ciacobellis
 # Project Introduction with Background History
 
-Please refer to the README.md [document](https://github.com/incredablechris/marist-mscs621-ciacobellis/edit/master/final_project/README.md) for this project after understanding this context.
+Please refer to the README.md [document](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/README.md) for this project after understanding this context.
 
 ### Background for this Decision: 
 
@@ -43,4 +43,4 @@ ________________________________________________________________________________
 
 ## Return to README
 
-Now that you understand the background of this course project, you may return to the [README](https://github.com/incredablechris/marist-mscs621-ciacobellis/edit/master/final_project/README.md) document.
+Now that you understand the background of this course project, you may return to the [README](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/README.md) document.
