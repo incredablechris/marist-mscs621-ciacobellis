@@ -47,9 +47,16 @@ To deploy the application, we must first configure each of the three components:
 __________________________________________________________________________________________________________________________
 
 ## Architecture Diagram
- + Architecture diagram (local cloud development, cloud deployment, communication)
+
+Below is an Architecture Diagram I have created for the project. The diagram is separated into two distinct parts. These being the current "As-Is" Architecture for the project example (a much less detailed scenario than that of the Skills Gateway Team) and the future "To-Be" Architecture. The "To-Be" diagram includes the two IBM Cloud Services, [1] DB2 Managed On Cloud Database and [2] Cloud Object Storage. The third [3] cloud service is Secure Gateway, which is placed in the middle of the "As-Is" and the "To-Be" as it will be the bridge between the two Architectures.
+
+Architecture Diagrams are important as they provide the project manager, developers, client, and users a higher level understanding of the system. The smaller details are usually not presented in diagrams of this type for this very reason. Hence the reason for why I chose to display my diagram as a simpler one.
+
+Please view the diagram below. The link will bring you to another page within the "final_project" folder.
 
 ***** COPY ARCH DIAGRAM FROM SKILLS GATEWAY ON PPT. EMBED LINK OR PHOTO TO DIAGRAM *******************************
+
+![Final Project Architecture Diagram](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 __________________________________________________________________________________________________________________________
 
