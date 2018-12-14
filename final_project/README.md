@@ -52,9 +52,7 @@ Below is an Architecture Diagram I have created for the project. The diagram is 
 
 Architecture Diagrams are important as they provide the project manager, developers, client, and users a higher level understanding of the system. The smaller details are usually not presented in diagrams of this type for this very reason. Hence the reason for why I chose to display my diagram as a simpler one.
 
-Please view the diagram below. The link will bring you to another page within the "final_project" folder.
-
-***** COPY ARCH DIAGRAM FROM SKILLS GATEWAY ON PPT. EMBED LINK OR PHOTO TO DIAGRAM *******************************
+Please view the diagram below.
 
 ![Final Project Architecture Diagram](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/Final_Project_Arch.png)
 
