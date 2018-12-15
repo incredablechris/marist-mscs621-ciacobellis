@@ -40,7 +40,7 @@ ________________________________________________________________________________
 
 To deploy the application, we must first configure each of the three components:
 
-1. [Db2 Managed Database]()************************************************************************************
+1. [Db2 Managed Database](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/db2_managed.md)
 2. [Cloud Object Store]()**************************************************************************************
 3. [Secure Gateway]()*****************************************************************************************
 
