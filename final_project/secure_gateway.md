@@ -9,6 +9,8 @@ Briefly, the Secure Gateway will allow a user to establish a bridge and|or conne
 
 The reason a Secure Gateway is needed is due to the specific zone configuration of each type of network. The legacy database server may be located in the "BlueZone" [as IBM 'coins' it], whereas the IBM Cloud server is configured differently. Therefore, in order to transfer data between the two 'zones,' a Secure Gateway needs to be established.
 
+__________________________________________________________________________________________________________________________
+
 ## Review Final Report
 
 The [Final Report](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/Iacobellis_Final_PPT.pdf) illustrates in detail the step-by-step process for:
@@ -50,6 +52,8 @@ docker run -it ibmcom/secure-gateway-client 5Ph4rPiqyxw_prod_ng -t eyJhbGciOiJIU
 ```
 
 Once activated, your local machine becomes the bridge between the two networks.
+
+__________________________________________________________________________________________________________________________
 
 ## Congratulations
 
