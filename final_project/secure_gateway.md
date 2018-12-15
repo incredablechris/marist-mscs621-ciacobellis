@@ -17,6 +17,6 @@ The [Final Report](https://github.com/incredablechris/marist-mscs621-ciacobellis
 2. Configuring Source and Target Destinations.
 3. Initiating the gateway through a Terminal Shell with Docker.
 
-*To install Docker on your local machine, please visit [Docker](https://docs.docker.com/docker-for-mac/install/) here.
+*To install Docker on your local machine [ if you are using macOS ], please visit [Docker](https://docs.docker.com/docker-for-mac/install/) here.
 
 
