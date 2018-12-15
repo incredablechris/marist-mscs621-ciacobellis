@@ -20,3 +20,11 @@ The [Final Report](https://github.com/incredablechris/marist-mscs621-ciacobellis
 *To install Docker on your local machine [ if you are using macOS ], please visit [Docker](https://docs.docker.com/docker-for-mac/install/) here.
 
 
+## Docker Commands
+
+The Secure Gateway offers 3 methodologies for creating a connection through your Terminal Shell. These include:
+
+1. IBM Installer
+2. Docker
+3. IBM DataPower
+
