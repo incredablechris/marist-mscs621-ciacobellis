@@ -84,7 +84,7 @@ You will find the link below. You may need to create an IBMid if not already don
 
 __________________________________________________________________________________________________________________________
 
-## Create a FINAL REPORT
+## Create a Final Report
 
 Below is a [link](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/Iacobellis_Final_PPT.pdf) to my final report for this project. It is a PowerPoint that I have uploaded as a PDF for better viewing. 
 
