@@ -50,6 +50,40 @@ ________________________________________________________________________________
 
 This process involves using a terminal shell command line. Begin with opening your terminal shell command line.
 
+*Forewarning, these steps are directed towards a user who may want to learn how to use the Termainal commands to configure a database.
+
+*For a GUI walkthrough of the DB2Managed interface, see the [Final Report](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/Iacobellis_Final_PPT.pdf) steps.
+
+### Create a Service
+
+In the IBM Cloud Dashboard, create a Cloud Foundry Service with the Service Offering of "DB2Managed".
+Choose a plan that best suits your desired specifications. The Flex Plan is recommended for scalability.
+
+Once Created, Scale the Instance to your desired specifications. You will need to specify the amount of VPC's [Compute], Memory [RAM], and Total Storage.
+
+An Estimated Charge per month will be calculated.
+
+This process may take a while depending on how many VPC's, RAM, and Storage is allocated. Be patient.
+
+### Credentials
+Once the Service is ready, you'll need to create Credentials. In the Service Credentials tab on the left hand pane of the Service, create a New Credential.
+
+Below is an example of a Service Credential. You'll need to specify admin_username, public_ip, port, ssl_port, id, type, admin_password, private_ip, and host_name.
+
+``` 
+{
+  "admin_username": "root",
+  "public_ip": "169.61.12.248",
+  "port": 50000,
+  "ssl_port": 50001,
+  "id": 59263585,
+  "type": "MANAGEDDB2",
+  "admin_password": "********",
+  "private_ip": "10.187.139.179",
+  "host_name": "db2hosted-flex-ChristopherIacobellis-13-dal13"
+} 
+```
+
 ### SSH into the Remote Cloud Server
 
 (for this example, we will use our Db2 Cloud Managed test Database)
