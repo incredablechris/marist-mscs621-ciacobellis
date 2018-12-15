@@ -16,11 +16,6 @@ This process is an automated procedure that will effectively:
 4. Add ALTER CONSTRAINTS to all tables
 5. Add TRIGGERS, FUNCTIONS, and VIEWS (if applicable)
 
-The name of the script is listed below and will run on the BareMetal Server under the user jobman.
-```
-loadcursortable.sh
-```
-
 ### Migration Method within the Script
 
 #### Create a table in the Target (Cloud) Database
