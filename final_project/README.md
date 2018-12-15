@@ -90,11 +90,6 @@ Below is a [link](https://github.com/incredablechris/marist-mscs621-ciacobellis/
 
 The end of the report includes Final Thoughts, Statistics, and Retrospects. I hope you enjoy!
 
-
-
-
-
-
 __________________________________________________________________________________________________________________________
 
 ## Author
