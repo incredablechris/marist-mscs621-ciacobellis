@@ -250,4 +250,10 @@ list database directory
 ```
 This command allows the user to list all database pointers created on the target server.
 
+__________________________________________________________________________________________________________________________
+
+## Congratulations
+
+You have created and configured an IBM DB2 Managed Database environment of your own! Please return to the [README](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/README.md) page to continue with configuration of the remainder of the project.
+
 
