@@ -85,7 +85,24 @@ You will find the link below. You may need to create an IBMid if not already don
 __________________________________________________________________________________________________________________________
 
 ## Create a FINAL REPORT
-- The final report (ppt) should include the architecture, components, deployment model,
-communication, and so on. 
 
-EMBED A PPT HERE!!!***************************************************************************************************
+Below is a [link](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/Iacobellis_Final_PPT.pdf) to my final report for this project. It is a PowerPoint that I have uploaded as a PDF for better viewing. 
+
+The end of the report includes Final Thoughts, Statistics, and Retrospects. I hope you enjoy!
+
+
+
+
+
+
+__________________________________________________________________________________________________________________________
+
+## Author
+
+* **Christopher Iacobellis**
+
+##### with reference and research from
+
+* **Dirk Fetchner** IBM, Germany
+
+(https://www.ibm.com/developerworks/data/library/techarticle/dm-0901fechner/index.html "Fast and easy data movement using DB2's LOAD FROM CURSOR feature")
