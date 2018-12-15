@@ -13,7 +13,7 @@ The project that I have researched and implemented for this semester relates to 
 
 As such, my project for this course will highlight and implement:
 
-1. **Db2Hosted and Db2Managed on Cloud Database**
+1. **Db2Managed on Cloud Database**
 2. **IBM Cloud Object Store**
 3. **Secure Gateway**
 
