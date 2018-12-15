@@ -99,5 +99,3 @@ ________________________________________________________________________________
 ##### with reference and research from
 
 * **Dirk Fetchner** IBM, Germany
-
-["Fast and easy data movement using DB2's LOAD FROM CURSOR feature"](https://www.ibm.com/developerworks/data/library/techarticle/dm-0901fechner/index.html) 
