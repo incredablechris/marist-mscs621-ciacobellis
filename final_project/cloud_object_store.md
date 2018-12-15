@@ -42,6 +42,8 @@ Below are examples of Endpoint URLs.
 
 Endpoints are either Public or Private, and they are organized by region. The region is where the Cloud datacenters are located. Depending on your payment plan, you can choose to store your data in one region or multiple regions (cross-regional).
 
+__________________________________________________________________________________________________________________________
+
 ## Congratulations
 
 You have created and configured an IBM Cloud Object Store environment of your own! Please return to the [README](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/README.md) page to continue with configuration of the remainder of the project.
