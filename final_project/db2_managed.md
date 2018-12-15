@@ -50,9 +50,9 @@ ________________________________________________________________________________
 
 This process involves using a terminal shell command line. Begin with opening your terminal shell command line.
 
-*Forewarning, these steps are directed towards a user who may want to learn how to use the Termainal commands to configure a database.
+* Forewarning, these steps are directed towards a user who may want to learn how to use the Termainal commands to configure a database.
 
-*For a GUI walkthrough of the DB2Managed interface, see the [Final Report](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/Iacobellis_Final_PPT.pdf) steps.
+* For a GUI walkthrough of the DB2Managed interface, see the [Final Report](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/Iacobellis_Final_PPT.pdf) steps.
 
 ### Create a Service
 
