@@ -51,7 +51,7 @@ docker run -it ibmcom/secure-gateway-client 5Ph4rPiqyxw_prod_ng -t eyJhbGciOiJIU
 
 Once activated, your local machine becomes the bridge between the two networks.
 
-#### Congradulations
+## Congratulations
 
 You have successfully created and connected a Secure Gateway between two networks.
 
