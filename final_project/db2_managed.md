@@ -1,7 +1,6 @@
 ### marist-mscs621-ciacobellis
 ### MSCS621 Fall 2018 – Cloud Computing Project
 
-
 ## Db2 Managed Configuration
 
 ### Migrating Tables
@@ -29,3 +28,18 @@ For this  example: Let's copy the BRAND Table from our (legacy) database to our 
 2. Run this SQL statement in the Cloud and Create the Table.
 3. Make sure Foreign Keys, Constraints, Alters, and Comments are included.
 4. Complete steps below:
+
+__________________________________________________________________________________________________________________________
+
+There are two methodologies of completing this Migration. 
+
+1. The simpler process focuses on using the GUI in the Db2Managed Bluemix service on the IBM Cloud site.
+2. Using a Terminal Shell to Migrate.
+
+For #1, I've laid out the steps in the PowerPoint Presentation, with step-by-step instructions and screen captures. 
+
+*Reference these steps [here](PPTTT)*
+
+For #2, I will post the Termainal steps and commands here; for the Power User.
+
+
