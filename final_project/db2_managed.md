@@ -38,7 +38,7 @@ There are two methodologies of completing this Migration.
 
 For #1, I've laid out the steps in the PowerPoint Presentation, with step-by-step instructions and screen captures. 
 
-*Reference these steps [here](PPTTT)*
+*Reference these steps [here](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/Iacobellis_Final_PPT.pdf)*
 
 For #2, I will post the Termainal steps and commands here; for the Power User.
 
