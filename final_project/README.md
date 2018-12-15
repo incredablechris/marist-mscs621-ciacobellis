@@ -70,7 +70,7 @@ Please refer to Project Background Description.md for a full background descript
       
       marist-mscs621-ciacobellis/final_project/Project Background Description.md
       
-- or view the page [here](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/Project%20Background%20Description.md).
+- or view the page [Project Background Description](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/Project%20Background%20Description.md).
 
 __________________________________________________________________________________________________________________________
 
@@ -95,7 +95,3 @@ ________________________________________________________________________________
 ## Author
 
 * **Christopher Iacobellis**
-
-##### with reference and research from
-
-* **Dirk Fetchner** IBM, Germany
