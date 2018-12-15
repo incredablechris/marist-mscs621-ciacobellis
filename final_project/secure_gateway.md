@@ -19,8 +19,15 @@ The [Final Report](https://github.com/incredablechris/marist-mscs621-ciacobellis
 
 *To install Docker on your local machine [ if you are using macOS ], please visit [Docker](https://docs.docker.com/docker-for-mac/install/) here.
 
+## Requirements
 
-## Docker Commands
+The main requirement you will need to correctly configure a Secure Gateway is the **hostname** and **port** of the Source Database server and the **hostname** and **port** of the Destination Database server.
+
+With these, you will need a **username** and **password** for each respective database.
+
+Along with these, you will need **Docker** installed on your local machine. Let's begin with Docker.
+
+## Docker
 
 The Secure Gateway offers 3 methodologies for creating a connection through your Terminal Shell. These include:
 
@@ -28,3 +35,24 @@ The Secure Gateway offers 3 methodologies for creating a connection through your
 2. Docker
 3. IBM DataPower
 
+![Docker Secure Gateway](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/Docker%20Options.png)
+
+Since we have used Docker all throughout the semester, I thought it would be best to use for this project as well.
+
+### Commands
+
+After Docker is installed on your local machine, you will need to paste the Docker Command into your Terminal Shell, to initiate the Secure Gateway. 
+
+For my example, I am using the native Terminal Application for macOS. You may use any Terminal Shell application. I also recommend checking out [iTerm2](https://www.iterm2.com/) for macOS.
+
+```
+docker run -it ibmcom/secure-gateway-client 5Ph4rPiqyxw_prod_ng -t eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb25maWd1cmF0aW9uX2lkIjoiNVBoNHJQaXF5eHdfcHJvZF9uZyIsInJlZ2lvbiI6InVzLXNvdXRoIiwiaWF0IjoxNTQwMjIxNzI5LCJleHAiOjE1NDc5OTc3Mjl9.XbJ8H49wFLDCS1Wko9_uTsJO40gqtQ_29USl5JF8rJs
+```
+
+Once activated, your local machine becomes the bridge between the two networks.
+
+#### Congradulations
+
+You have successfully created and connected a Secure Gateway between two networks.
+
+Please return to the [README.md](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/README.md) page to continue with the tutorial. Also, please reference the [Final Report PDF](https://github.com/incredablechris/marist-mscs621-ciacobellis/blob/master/final_project/Iacobellis_Final_PPT.pdf).
